@@ -1,0 +1,104 @@
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap');
+:root {
+    --primary-color: rgb(0, 129, 197);
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Indie Flower', cursive;
+}
+
+
+
+header {
+    background-color: var(--primary-color);
+    text-align: center;
+    min-height: 100px;
+    box-sizing: border-box;
+
+
+
+}
+
+#header-Name {
+    font-size: 2rem;
+    padding: 1rem;
+
+}
+
+main {
+    margin: auto;
+    max-width: 600px;
+    box-sizing: border-box;
+    /* margin: 0rem 2rem; */
+    /* text-align: center; */
+}
+
+#userInput {
+    box-sizing: border-box;
+    width: 98%;
+    min-height: 15vh;
+    display: block;
+    font-size: large;
+    margin: auto;
+    margin-top: 3rem;
+    border-radius: 10px;
+    text-align: center;
+    background-color: rgb(251, 186, 0);
+}
+
+#image-duck{
+    max-width: 120px;
+    margin-top: 1rem;
+    margin-right: 6rem;
+    float: right;
+    
+}
+
+#btn-translate {
+    border: none;
+    margin: 2rem 1rem;
+    padding: 1rem 2rem;
+    background-color: rgb(227, 0, 27);
+    font-size: large;
+    box-sizing: border-box;
+    border-radius: 2px;
+    font-family: 'Indie Flower', cursive;
+}
+
+#outputText {
+    box-sizing: border-box;
+    font-size: large;
+    border: 1px solid black;
+    min-height: 12vh;
+    background-color:rgb(251, 186, 0);
+    width: 98%;
+    margin: auto;
+    margin-top: 2rem;
+    margin-bottom: 4rem;
+    overflow: scroll;
+}
+
+footer {
+    background-color: var(--primary-color);
+    text-align: center;
+    /* height: 122px; */
+    box-sizing: border-box;
+
+    
+}
+
+footer div{
+    margin: auto;
+    max-width: 600px;
+    padding: .5rem;
+}
+
+footer div h3{
+    margin: 0;
+}
+
+footer div p{
+    /* margin: ; */
+}
