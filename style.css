@@ -52,10 +52,16 @@ main {
     max-width: 120px;
     margin-top: 1rem;
     margin-right: 6rem;
-    float: right;
-    
+    float: right; 
 }
 
+@media only screen and (max-width: 460px){
+    #image-duck {
+      margin-right: 5vw;
+      max-width: 100px;
+      margin-top:1.3rem;
+    }
+  }
 #btn-translate {
     border: none;
     margin: 2rem 1rem;
