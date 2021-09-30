@@ -45,6 +45,7 @@ main {
     margin-top: 3rem;
     border-radius: 10px;
     text-align: center;
+    padding: 10px 5px;		
     background-color: rgb(251, 186, 0);
 }
 
@@ -83,6 +84,8 @@ main {
     margin: auto;
     margin-top: 2rem;
     margin-bottom: 4rem;
+    text-align: center;
+    padding: 10px 5px;
     overflow: scroll;
 }
 
