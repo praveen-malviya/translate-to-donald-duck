@@ -1,2 +1,12 @@
 # translate-to-donald-duck
- This is a API based translator which uses FunTranslationAPI to translate any text to donald duck text.
+ A VanilaJs based translator which uses FunTranslationAPI to translate any text to donald duck text. [Try Here](https://donaldducktranslator.netlify.app/)
+
+
+### App Features and Tech:
+1. Taking User input through JavaScript Queary Selctor attach to Input Element.
+2. Sending this input to [Fun Translation API](https://funtranslations.com/api/dolan).
+3. Fetching Data from API.
+4. Showing the said data as Output in HTML.
+5. Styling is Done Using CSS.
+
+
