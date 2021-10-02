@@ -1,5 +1,5 @@
 # translate-to-donald-duck
- A VanilaJs based translator which uses FunTranslationAPI to translate any text to donald duck text. [Try Here](https://donaldducktranslator.netlify.app/)
+ A VanilaJs based translator which uses FunTranslationAPI to translate any text to donald duck syled text. [Try Here](https://donaldducktranslator.netlify.app/)
 
 
 ### App Features and Tech:
